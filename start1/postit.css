@@ -1,11 +1,11 @@
 body {
-    
     font-family: 'Indie Flower';
     height: 100%;
+    background-color: #666666;
 }
 
 #lavagna {
-    background-color: #666666;
+    
     display: flex;
     flex-flow: row wrap;
     margin: 0 auto;
