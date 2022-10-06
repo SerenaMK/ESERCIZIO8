@@ -20,7 +20,8 @@ body {
     margin: 80px 60px;
     position: relative;
     font-size: 1.8em;
-    width: 25em;
+    width: 26.5em;
+    line-height: 1.5em;
 }
 
 p {
@@ -51,6 +52,6 @@ i {
 }
 
 span {
-    bottom: -5px;
+    bottom: 2px;
     position: relative;
 }
