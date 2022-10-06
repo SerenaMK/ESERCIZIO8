@@ -47,13 +47,10 @@ i {
     top: 0;
     color: transparent;
     width: 200px;
-}
-
-i::before {
-    content: ("&nbsp;");
+    margin-left: 6px;
 }
 
 span {
-    bottom: -3px;
+    bottom: -5px;
     position: relative;
 }
